@@ -14,10 +14,14 @@ The Working Group repository contains discussions, goals, roadmaps, assets, and 
 * [Governance](#governance)
   * [Technical Decisions](#technical-decisions)
   * [Organizational Decisions](#organizational-decisions)
-  * [Teams](#teams)
-    * [Compiler](#compiler)
-    * [Advocate](#advocate)
-    * [Developer Experience](#developer-experience)
+* [Groups](#groups)
+  * [Working Group](#working-group)
+  * [Community Group](#community-group)
+* [Teams](#teams)
+  * [Compiler](#compiler)
+  * [Advocate](#advocate)
+  * [Developer Experience](#developer-experience)
+* [Getting Involved](#getting-involved)
 
 # Goals
 
@@ -45,7 +49,21 @@ Organizational Descisions can be interpreted as contributions to the general pro
 
 For this, we will be following a meritocracy. Where consensus will be requested on issues opened on this repo to get a community vote, and can find a path going forward.
 
-## Teams
+# Groups
+
+The AssemblyScript project has meetings and and correspondance divided into groups. These groups communicate and work together very closely, and provides a way for focused discussions for those who need that.
+
+## Working Group
+
+The working group is for those who would like to contribute to the project directly. Whether that be through getting advice on technical implementations, showing off a new tool they are building, or just generally talking about the AssemblyScript project and where it is headed.
+
+**Anyone working on anything related to the AssemblyScript project is welcome to participate in the Working Group!**
+
+## Community Group
+
+The [community group](https://github.com/AssemblyScript/community-group) is for those who would like to discuss with other community members (including members of the working group) using AssemblyScript in their applications. The goal being that they can prioritize their core feature requests and use cases and communicate that to the working group. Which can help reduce duplicating efforts amongst the community, and allow the community to be collectively more productive!
+
+# Teams
 
 The AssemblyScript Working Group is divided into teams. The teams make design, architectural, and organizational decisions for their relevant domains and repositories by consensus. If consensus can't be made, then the project lead may act as a tie-breaker.
 
@@ -56,7 +74,7 @@ The AssemblyScript Working Group is divided into teams. The teams make design, a
 * All members of a team must adhere to the [Code of Conduct](./CODE_OF_CONDUCT.md).
 * Membership does not imply commit access to a repository. Commit access should be handled by the maintainer of the repository, or by consensus of the respective team.
 
-### Compiler
+## Compiler
 
 The Compiler team works directly on the AssemblyScript compiler and its standard library, mostly under the [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) repository.
 
@@ -67,7 +85,7 @@ The Compiler team works directly on the AssemblyScript compiler and its standard
 * **Duncan Uszkay** (@DuncanUszkay1) - Regular Contributor [Shopify](https://www.shopify.com/)
 * **Aaron Turner** (@torch2424) - Regular Contributor, [Fastly](https://www.fastly.com/)
 
-### Advocate
+## Advocate
 
 The Advocate team works on projects, demos, talks, giving feedback on "messaging" about the project, and writing articles to help grow popularity and improve outreach.
 
@@ -75,7 +93,7 @@ The Advocate team works on projects, demos, talks, giving feedback on "messaging
 * **Joshua Tenner** (@jtenner) - [Speaker](https://dev.to/jtenner/an-assemblyscript-primer-for-typescript-developers-lf1)
 * **Willem Wyndham** (@willemneal) - [Teacher](http://www.cs.umd.edu/class/spring2019/cmsc388I/assemblyscript.html)
 
-### Developer Experience
+## Developer Experience
 
 The Developer Experience team works on projects such as tools, or anything that helps people be productive with AssemblyScript.
 
@@ -83,3 +101,14 @@ The Developer Experience team works on projects such as tools, or anything that 
 * **Joshua Tenner** (@jtenner) - Author of [as-pect](https://github.com/jtenner/as-pect) and [as2d](https://github.com/as2d/as2d)
 * **Willem Wyndham** (@willemneal) - Developer Experience at [NEAR](https://nearprotocol.com)
 * **Bowen Wang** (@bowenwang1996) - Developer Experience at [NEAR](https://nearprotocol.com)
+
+# Getting Involved
+
+We're happy to help you get involved! Currently, there are a few things you could do to start getting involved with the working group:
+
+* Reach out to a team member, and get invited to the AssemblyScript slack.
+
+* Join one of our [upcoming public meetings](https://github.com/AssemblyScript/working-group/issues?q=is%3Aissue+is%3Aopen+public+meeting).
+
+* Open an issue on the [working-group issues](https://github.com/AssemblyScript/working-group/issues), or any of the [AssemblyScript repositories](https://github.com/AssemblyScript).
+
