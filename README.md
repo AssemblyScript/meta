@@ -41,7 +41,7 @@ Following the [definitions described in opensource.guide](https://opensource.gui
 
 Technical Decisions can be interpreted as contributions being made to projects in the AssemblyScript Github Organization.
 
-For this, we will be following BDFL. Daniel Wirtz (@dcodeIO) is the designated project lead. Thus, in the case there is conflict between contributors, the lead will be the one to make the final decision.
+For this, we will be following BDFL. Daniel Wirtz ([@dcodeIO](https://github.com/dcodeIO)) is the designated project lead. Thus, in the case there is conflict between contributors, the lead will be the one to make the final decision.
 
 ## Organizational Decisions
 
