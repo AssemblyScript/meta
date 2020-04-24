@@ -76,29 +76,29 @@ The Working Group is divided into teams. The teams make design, architectural, a
 
 The Compiler team works directly on the AssemblyScript compiler, its standard library or provided tools, mostly under the [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) repository.
 
-* **Daniel Wirtz** (@dcodeIO) - Author of AssemblyScript
-* **Max Graey** (@MaxGraey) - Author of large parts of the Standard Library
-* **Joshua Tenner** (@jtenner) - Regular Contributor
-* **Bowen Wang** (@bowenwang1996) - Regular Contributor, [NEAR](https://nearprotocol.com/)
-* **Duncan Uszkay** (@DuncanUszkay1) - Regular Contributor, [Shopify](https://www.shopify.com/)
-* **Aaron Turner** (@torch2424) - Regular Contributor, [Fastly](https://www.fastly.com/)
+* **Daniel Wirtz** ([@dcodeIO](https://github.com/dcodeIO)) - Author of AssemblyScript
+* **Max Graey** ([@MaxGraey](https://github.com/MaxGraey)) - Author of large parts of the Standard Library
+* **Joshua Tenner** ([@jtenner](https://github.com/jtenner)) - Regular Contributor
+* **Bowen Wang** ([@bowenwang1996](https://github.com/bowenwang1996)) - Regular Contributor, [NEAR](https://nearprotocol.com/)
+* **Duncan Uszkay** ([@DuncanUszkay1](https://github.com/DuncanUszkay1)) - Regular Contributor, [Shopify](https://www.shopify.com/)
+* **Aaron Turner** ([@torch2424](https://github.com/torch2424)) - Regular Contributor, [Fastly](https://www.fastly.com/)
 
 ## Advocate
 
 The Advocate team works on projects, demos, talks, giving feedback on "messaging" about the project, and writing articles to help grow popularity and improve outreach.
 
-* **Aaron Turner** (@torch2424) - [Speaker](https://youtu.be/ZlL1nduatZQ)
-* **Joshua Tenner** (@jtenner) - [Speaker](https://dev.to/jtenner/an-assemblyscript-primer-for-typescript-developers-lf1)
-* **Willem Wyndham** (@willemneal) - [Teacher](http://www.cs.umd.edu/class/spring2019/cmsc388I/assemblyscript.html)
+* **Aaron Turner** ([@torch2424](https://github.com/torch2424)) - [Speaker](https://youtu.be/ZlL1nduatZQ)
+* **Joshua Tenner** ([@jtenner](https://github.com/jtenner)) - [Speaker](https://dev.to/jtenner/an-assemblyscript-primer-for-typescript-developers-lf1)
+* **Willem Wyndham** ([@willemneal](https://github.com/willemneal)) - [Teacher](http://www.cs.umd.edu/class/spring2019/cmsc388I/assemblyscript.html)
 
 ## Developer Experience
 
 The Developer Experience team works on projects such as tools, or anything that helps people be productive with AssemblyScript.
 
-* **Aaron Turner** (@torch2424) - Author of [Wasm By Example](https://github.com/torch2424/wasm-by-example) and [as-bind](https://github.com/torch2424/as-bind)
-* **Joshua Tenner** (@jtenner) - Author of [as-pect](https://github.com/jtenner/as-pect) and [as2d](https://github.com/as2d/as2d)
-* **Willem Wyndham** (@willemneal) - Developer Experience at [NEAR](https://nearprotocol.com)
-* **Bowen Wang** (@bowenwang1996) - Developer Experience at [NEAR](https://nearprotocol.com)
+* **Aaron Turner** ([@torch2424](https://github.com/torch2424)) - Author of [Wasm By Example](https://github.com/torch2424/wasm-by-example) and [as-bind](https://github.com/torch2424/as-bind)
+* **Joshua Tenner** ([@jtenner](https://github.com/jtenner)) - Author of [as-pect](https://github.com/jtenner/as-pect) and [as2d](https://github.com/as2d/as2d)
+* **Willem Wyndham** ([@willemneal](https://github.com/willemneal)) - Developer Experience at [NEAR](https://nearprotocol.com)
+* **Bowen Wang** ([@bowenwang1996](https://github.com/bowenwang1996)) - Developer Experience at [NEAR](https://nearprotocol.com)
 
 # Getting Involved
 
