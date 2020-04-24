@@ -60,11 +60,12 @@ The AssemblyScript Working Group is divided into teams. The teams make design, a
 
 The Compiler team works directly on the AssemblyScript compiler and its standard library, mostly under the [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) repository.
 
-* **Daniel Wirtz** (@dcodeIO) - Author of AssemblyScript<br />
-* **Max Graey** (@MaxGraey) - Author of large parts of the Standard Library<br />
-* **Joshua Tenner** (@jtenner) - Regular Contributor<br />
-* **Aaron Turner** (@torch2424) - Regular Contributor<br />
-* **Bowen Wang** (@bowenwang1996) - Regular Contributor<br />
+* **Daniel Wirtz** (@dcodeIO) - Author of AssemblyScript
+* **Max Graey** (@MaxGraey) - Author of large parts of the Standard Library
+* **Joshua Tenner** (@jtenner) - Regular Contributor
+* **Bowen Wang** (@bowenwang1996) - Regular Contributor, [NEAR](https://nearprotocol.com/)
+* **Duncan Uszkay** (@DuncanUszkay1) - Regular Contributor [Shopify](https://www.shopify.com/)
+* **Aaron Turner** (@torch2424) - Regular Contributor, [Fastly](https://www.fastly.com/)
 
 ### Advocate
 
