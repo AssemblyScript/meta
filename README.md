@@ -61,7 +61,7 @@ The working group is for those who would like to contribute to the project direc
 
 ## Community Group
 
-The [community group](https://github.com/AssemblyScript/community-group) is for those who would like to discuss with other community members (including members of the working group) using AssemblyScript in their applications. The goal being that they can prioritize their core feature requests and use cases and communicate that to the working group. Which can help reduce duplicating efforts amongst the community, and allow the community to be collectively more productive!
+The [community group](https://github.com/AssemblyScript/community-group) is for those who would like to discuss with other community members (including members of the working group) using AssemblyScript in their applications. Its goal is to communicate core feature requests and use cases to aid in prioritizing the working group's efforts.  Which can help reduce duplicating efforts amongst the community, and allow the community to be collectively more productive!
 
 # Teams
 
