@@ -9,7 +9,7 @@ This document serves as an overview of the AssemblyScript project's organization
 * [Governance](#governance)
   * [People](#people)
 * [Community group](#community-group)
-* [Getting Involved](#getting-involved)
+  * [Getting Involved](#getting-involved)
 
 # Goals
 
@@ -48,7 +48,7 @@ Inactive:
 
 The [Community Group](https://github.com/AssemblyScript/community-group) is for those who would like to discuss with other community members (including members of the core team) using AssemblyScript in their applications or otherwise interested in becoming involved. Its goal is to communicate core feature requests and use cases to aid in prioritizing the core team's efforts, which can help reduce duplicating efforts amongst the community, and allow the community to be collectively more productive!
 
-**Getting Involved:**
+## Getting Involved
 
 * Read and agree to the [Code of Conduct](./CODE_OF_CONDUCT.md).
 * Join the [AssemblyScript Discord](https://discord.com/assemblyscript).
