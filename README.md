@@ -8,7 +8,7 @@ This document serves as an overview of the AssemblyScript project's organization
 * [Goals](#goals)
 * [Governance](#governance)
   * [People](#people)
-* [Community group](#community-group)
+* [Community](#community)
   * [Getting Involved](#getting-involved)
 
 # Goals
@@ -27,24 +27,19 @@ AssemblyScript utilizes the governance model of a **BDFL**, as described in the 
 ## People
 
 * [Daniel Wirtz](https://github.com/dcodeIO) - Project lead (independent)
-* [Max Graey](https://github.com/MaxGraey) - Regular member / Standard library coordination (independent)
-* [Aaron Turner](https://github.com/torch2424) - Regular member / Outreach (Fastly)
-* [Joshua Tenner](https://github.com/jtenner) - Regular member (independent)
-* [Willem Wyndham](https://github.com/willemneal) - Regular member (NEAR)
-* [Jay Phelps](https://github.com/jayphelps) - Regular member (Outsmartly)
-* [Surma](https://github.com/surma) - Regular member (Google)
-* [Saúl Cabrera](https://github.com/saulecabrera) - Regular member (Shopify)
-* [Colin Eberhardt](https://github.com/colineberhardt) - Regular member (Scott Logic)
-* [Joe Pea](https://github.com/trusktr) - Regular member (independent)
-* [Rick Battagline](https://github.com/battlelinegames) - Regular member (independent)
+* [Max Graey](https://github.com/MaxGraey) - Regular contributor / Standard library coordination (independent)
+* [Aaron Turner](https://github.com/torch2424) - Regular contributor / Outreach (Fastly)
+* [Joshua Tenner](https://github.com/jtenner) - Regular contributor (independent)
+* [Willem Wyndham](https://github.com/willemneal) - Regular contributor (NEAR)
+* [Surma](https://github.com/surma) - Regular contributor (Google)
+* [Saúl Cabrera](https://github.com/saulecabrera) - Regular contributor (Shopify)
+* [Colin Eberhardt](https://github.com/colineberhardt) - Regular contributor (Scott Logic)
+* [Joe Pea](https://github.com/trusktr) - Regular contributor (independent)
+* [Rick Battagline](https://github.com/battlelinegames) - Regular contributor (independent)
 
-Inactive:
+We are always happy to welcome back currently inactive members (not listed).
 
-* Bowen Wang
-* Duncan Uszkay
-* Maksym Zavershynskyi
-
-# Community group
+# Community
 
 The [Community Group](https://github.com/AssemblyScript/community-group) is for those who would like to discuss with other community members (including members of the core team) using AssemblyScript in their applications or otherwise interested in becoming involved. Its goal is to communicate core feature requests and use cases to aid in prioritizing the core team's efforts, which can help reduce duplicating efforts amongst the community, and allow the community to be collectively more productive!
 
@@ -52,4 +47,4 @@ The [Community Group](https://github.com/AssemblyScript/community-group) is for 
 
 * Read and agree to the [Code of Conduct](./CODE_OF_CONDUCT.md).
 * Join the [AssemblyScript Discord](https://discord.com/assemblyscript).
-* Join one of our upcoming meetings (see the **#events** channel) and say "hi" :)
+* Join one of our upcoming meetings (see the **#events** channel) and say "hi"!
