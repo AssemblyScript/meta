@@ -46,5 +46,5 @@ The [Community Group](https://github.com/AssemblyScript/community-group) is for 
 ## Getting Involved
 
 * Read and agree to the [Code of Conduct](./CODE_OF_CONDUCT.md).
-* Join the [AssemblyScript Discord](https://discord.com/assemblyscript).
+* Join the [AssemblyScript Discord](https://discord.gg/assemblyscript).
 * Join one of our upcoming meetings (see the **#events** channel) and say "hi"!
